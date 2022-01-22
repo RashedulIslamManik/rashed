@@ -1,4 +1,4 @@
-# Rashed.py
+# Rashed Vau
 
 
 
@@ -15,6 +15,6 @@
 # git clone 
 https://github.com/RashedulIslamManik/rashed.git
 
-# CD rashed
+# cd rashed
 
 # python2 Love.py
